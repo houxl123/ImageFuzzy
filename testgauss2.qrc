@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ground.bmp</file>
+    </qresource>
+</RCC>
